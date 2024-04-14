@@ -7,4 +7,11 @@ categories: jekyll update
 
 # Jekyll入門中
 
-* こんにちは
+* build
+```
+jekyll build
+```
+* server
+```
+jekyll serve --host=192.168.100.40
+```
