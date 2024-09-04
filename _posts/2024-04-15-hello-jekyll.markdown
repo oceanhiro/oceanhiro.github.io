@@ -15,3 +15,7 @@ jekyll build
 ```
 jekyll serve --host=192.168.100.40
 ```
+* post
+```
+cp -p _posts/2024-04-15-hello-jekyll.markdown _posts/YYY-MM-DD-{post-name}.markdown
+```
